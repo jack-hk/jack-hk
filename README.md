@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jack, @jack-hk
-- 🕹️ I’m interested in games dev and web.
-- 🌱 I’m currently learning Unity and Unreal Engine along with C# and C++.
-- 💞️ I’m looking to collaborate on community projects!
+- 🕹️ I’m interested in real-time programmming.
+- 🌱 I’m currently learning C# and C++ primarily for Unity and Unreal Engine.
+- 💞️ I’m interested in collaborating on community projects.
 - 📫 How to reach me - (See links under bio).
 
 <!---
