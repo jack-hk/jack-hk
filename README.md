@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jack, @jack-hk
-- 🕹️ I’m interested in real-time programmming.
-- 🌱 I’m currently learning C# and C++ primarily for Unity and Unreal Engine.
+- 🕹️ I’m interested in Dart and real-time programmming.
+- 🌱 I’m currently learning Dart with Flutter.
 - 💞️ I’m interested in collaborating on community projects.
 - 📫 How to reach me - (See links under bio).
 
